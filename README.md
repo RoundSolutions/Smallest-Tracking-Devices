@@ -3,7 +3,7 @@ The NanoTracker is the world's smallest, wearable GPS &amp; GPRS Tracking Device
 
 The NanoTracker/ Pico-SensoTrack is a portable and wearable tracking device powered by a rechargeable battery. The two tracking devices are freely configurable and can be used in various everyday situations. 
 
-##Program your tracking device to your benefits:
+## Program your tracking device to your benefits:
 
 *'Panic-Button' for an emergency call (NanoTracker only)
 
